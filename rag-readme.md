@@ -123,9 +123,5 @@ The system includes customizable prompt templates for:
 - System behavior
 
 ## Contributing
-
 Feel free to submit issues and enhancement requests!
 
-## License
-
-[Specify your license here]
